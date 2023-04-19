@@ -1,3 +1,11 @@
+/*
+ Name: Sam Carter
+ Class: CPSC 122 Spring
+ Date: April 18 2023
+ Programming Assignment: PA7                                                         
+ Description: This program converts infix expressions to postfix expressions and then evaluates those postfix expressions using a stack.
+ Notes: 
+*/
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
